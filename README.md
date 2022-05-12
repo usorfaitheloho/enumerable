@@ -1,6 +1,6 @@
 # # Enumerable
 
-> Enumerable is Ruby project reflect our skill with ruby modules and other features
+> Enumerable is a Ruby project reflect our skill with ruby modules and other features
 
 ## Built With
 
