@@ -1,6 +1,6 @@
-# # Morse Code
+# # Enumerable
 
-> This a Ruby project that translate morse code into English alphabet
+> Enumerable is Ruby project reflect our skill with ruby modules and other features
 
 ## Built With
 
@@ -12,15 +12,21 @@
 
 Start by cloning the repository.
 
-`https://github.com/Banstein/decode-morse-message.git`
+`git clone git@github.com:usorfaitheloho/enumerable.git`
 
 Navigate to the created folder.
 
-`cd decode-morse-message`
+`cd enumerable`
 
 Have fun with morse code translation.
 
 ## Authors
+
+👤 Faith Eloho Usor
+
+- GitHub: [@githubhandle](https://github.com/usorfaitheloho)
+- Twitter: [@twitterhandle](https://twitter.com/faith-usor16)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/faith-usor)
 
 👤 Islam Bahnas
 
@@ -28,11 +34,6 @@ Have fun with morse code translation.
 - Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
 - LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
 
-👤 Faith Eloho Usor
-
-- GitHub: [@githubhandle](https://github.com/usorfaitheloho)
-- Twitter: [@twitterhandle](https://twitter.com/faith-usor16)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/faith-usor)
 
 ## 🤝 Contributing
 
